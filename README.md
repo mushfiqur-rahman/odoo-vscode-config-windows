@@ -1,0 +1,1 @@
+# odoo-vscode-config-windows
